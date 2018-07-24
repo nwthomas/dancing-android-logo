@@ -4,10 +4,10 @@ This was a class assignment on HTML and CSS for The Odin Project online web deve
 
 ## Getting Started
 
-1.) Download repository
-2.) Open index.html in your browser of choice
-3.) Play around with the head, arms, and legs of the little green Android logo monster
-4.) Think about how much better you are now that you have this in your life
+1. Download repository
+2. Open index.html in your browser of choice
+3. Play around with the head, arms, and legs of the little green Android logo monster
+4. Think about how much better you are now that you have this in your life
 
 ## Built With
 
